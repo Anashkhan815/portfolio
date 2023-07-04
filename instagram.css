@@ -1,0 +1,40 @@
+div {
+    width: 50%;
+    height: 300px;
+    background-color: whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    margin-bottom: auto;
+}
+body{
+    text-align: center;
+    
+}
+h1{ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    
+}
+
+.both{
+    background-color: white;
+    border: none;
+ height: 30px;
+ width: 200px;
+ border-radius: 5px;
+ 
+}
+.btn{
+background-color: skyblue;
+color: aliceblue;
+height: 20px;
+border:none;
+width:100px;
+
+}
+.facebook{
+
+    
+    border: none;
+    background-color: skyblue;
+    color: whitesmoke;
+}

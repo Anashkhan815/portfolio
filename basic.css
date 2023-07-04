@@ -1,0 +1,57 @@
+
+
+.head{
+    display: flex;
+    gap: 10px;
+     margin-left: 200px;
+}
+.head  h1{
+    
+    color: rgb(56, 56, 56);
+    line-height: 10px;
+   
+}
+ul{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 50px 300px  50px 300px;
+    color: rgb(116, 116, 116);
+}
+li{
+    list-style: none;
+}
+main{
+    text-align: center;
+    font-family: "Lato", Tahoma, sans-serif;
+    background-image: url(https://www.basicwebsiteexample.com/assets/images/c349499b-050e-4831-9cc5-040b6af27f2a.jpg);
+height: 100vh;
+}
+main h1{
+
+color: white;
+}
+.bn{
+    background-color: #70d2dd;
+    border-top:5px solid #2cacbb ;
+    height: 100px;
+}
+.st{
+    background-color:  rgba(112,210,221,0.4);
+    margin: 0;
+   
+}
+h3{
+    margin: 0;
+    
+}
+button{
+    background-color: rgb(196, 17, 17);
+    border: none;
+    border-radius: 2px;
+    margin-top: 10px;
+    height: 30px;
+    width: 150px;
+    cursor: pointer;
+    color: white;
+}
